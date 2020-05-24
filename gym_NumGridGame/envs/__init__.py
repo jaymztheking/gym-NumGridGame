@@ -1,1 +1,1 @@
-from gym_NumGridGame.envs.numgridgame_env import NumGridGameEnv
+from gym_NumGridGame.envs.numgridgameenv import NumGridGameEnv
